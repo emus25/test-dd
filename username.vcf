@@ -1,0 +1,75 @@
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=UTF-8:;;; ;
+FN: 
+ORG:
+COMPANY:
+TITLE:
+
+ADR;CHARSET=UTF-8;TYPE=WORK:;;;;;;
+TEL;TYPE=Work,pref:02079163138
+TEL;CELL;TYPE=Mobile,VOICE:
+TEL;TYPE=WORK,VOICE:
+
+TEL;TYPE=Work,Fax:
+TEL;TYPE=Home,VOICE:
+TEL;TYPE=sms:
+URL;TYPE=Messenger:
+TEL;TYPE=SIGNAL:
+EMAIL;TYPE=Email:Sales@diamonddoves.co.uk
+URL;TYPE=Digital Business Card:
+
+
+URL;TYPE=Location:https://maps.app.goo.gl/tXGPEsZUo9Jn2uz88?g_st=ic
+KEY:OPENPGP4FPR:
+UID:SMART vCARD-100864524
+URL;TYPE=Website:https://diamonddoves.co.uk/
+URL;TYPE=Calendar:
+URL;TYPE=WhatsApp:
+
+
+URL;TYPE=Instagram:https://www.instagram.com/diamonddoveslondon?igsh=MXhpdXBndDh0ejhmYw==
+URL;TYPE=TikTok:https://www.tiktok.com/@diamonddoves
+
+PHOTO;ENCODING=b:{
+  "data": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"utf-8\">\n<title>Error</title>\n</head>\n<body>\n<pre>Cannot GET /api/createAvatar//null</pre>\n</body>\n</html>\n",
+  "status": 404,
+  "statusText": "",
+  "headers": {
+    "content-length": "161",
+    "content-type": "text/html; charset=utf-8"
+  },
+  "config": {
+    "url": "https://pay4zip.com/api/createAvatar//null",
+    "method": "get",
+    "headers": {
+      "Accept": "application/json, text/plain, */*"
+    },
+    "transformRequest": [
+      null
+    ],
+    "transformResponse": [
+      null
+    ],
+    "timeout": 0,
+    "withCredentials": true,
+    "xsrfCookieName": "XSRF-TOKEN",
+    "xsrfHeaderName": "X-XSRF-TOKEN",
+    "maxContentLength": -1,
+    "maxBodyLength": -1
+  },
+  "request": {
+    "__sentry_xhr_v3__": {
+      "method": "GET",
+      "url": "https://pay4zip.com/api/createAvatar//null",
+      "request_headers": {
+        "accept": "application/json, text/plain, */*"
+      },
+      "body": null,
+      "status_code": 404
+    }
+  }
+}
+NOTE;CHARSET=UTF-8:
+
+END:VCARD
